@@ -1,0 +1,5 @@
+This is my rice that i did at work and it has all of the
+configs for i3wm and polybar and rofi (and nvim nvchad)
+just copy the config folder contents into your .config
+and install the pacages using pacman from pacman.txt
+
